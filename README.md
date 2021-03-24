@@ -5,11 +5,14 @@ The immune system is modeled as a system of chemical reactions using the Gillesp
 It uses the immune shape space model developed by Smith et al. (Smith et al., J Theor Biol 1997) and the immune response model by B cells for malaria by Chaudhury et al. (Journal of Immunology. 2014). 
 
 REQUIREMENTS:
+
 The immune modeling code requires Python 2.4 or later.
 
 USAGE EXAMPLES: 
+
 python run_dengueinfections.py <data_file> monovalent
 python run_dengueinfections.py <data_file> polyvalent
 
 CITATION:
+
 Nguyen et al. Stochastic models of the adaptive immune response predict disease severity and captures enhanced cross-reactivity in natural dengue infections. Journal of Immunology. 2021
