@@ -16,4 +16,4 @@ python run_dengueinfections.py <data_file> polyvalent
 
 CITATION:
 
-Nguyen et al. Stochastic models of the adaptive immune response predict disease severity and captures enhanced cross-reactivity in natural dengue infections. Journal of Immunology. 2021
+Nguyen et al. Stochastic models of the adaptive immune response predict disease severity and captures enhanced cross-reactivity in natural dengue infections. Front. Immunol. 2021
