@@ -8,13 +8,13 @@ REQUIREMENTS: The immune modeling code requires Python 2.4 or later.
 
 USAGE EXAMPLES: 
 
-For natural infections:
+Natural infections:
 
 python run_dengueinfections.py <data_file> monovalent
 
 python run_dengueinfections.py <data_file> polyvalent
 
-For vaccine studies:
+Vaccine studies:
 
 python run_infectvaccine_vaccineDENV2.py <data_file> polyvalent monovalent
 
