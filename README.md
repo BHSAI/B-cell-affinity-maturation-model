@@ -6,7 +6,9 @@ Stochastic model of the immune response to dengue infections and effect of vacci
 
 REQUIREMENTS: The immune modeling code requires Python 2.4 or later.
 
-USAGE EXAMPLES: For natural infections:
+USAGE EXAMPLES: 
+
+For natural infections:
 
 python run_dengueinfections.py <data_file> monovalent
 
